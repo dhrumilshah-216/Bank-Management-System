@@ -2,6 +2,8 @@
 
 A comprehensive digital banking application built with Python, featuring both command-line and web interfaces, along with AI-powered customer support.
 
+[Live demo](https://dhrumil-bank-management-system.streamlit.app/)
+
 ## 📋 Table of Contents
 - [Features](#-features)
 - [System Architecture](#-system-architecture)
@@ -67,7 +69,7 @@ A comprehensive digital banking application built with Python, featuring both co
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/dhrumilshah-216/Bank-Management-System
 cd bank-management-system
 ```
 
