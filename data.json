@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Dhrumil Shah",
+        "age": 19,
+        "email": "dhrumil@example.com",
+        "phone_number": 9897969594,
+        "pin": 4321,
+        "account_no": "1K7h#0h",
+        "balance": 9000
+    },
+    {
+        "name": "Dhrumil Vijay Shah",
+        "age": 19,
+        "phone_number": 8361364480,
+        "email": "dhrumilshah756@gmail.com",
+        "pin": 1007,
+        "account_no": "zW~9Q78",
+        "balance": 10001
+    },
+    {
+        "name": "Dhrumil V Shah",
+        "age": 19,
+        "phone_number": 9897969594,
+        "email": "dhr@abc.com",
+        "pin": 1012,
+        "account_no": "0i6!p1c",
+        "balance": 20000
+    },
+    {
+        "name": "Vijay Sevantilal Shah",
+        "age": 40,
+        "phone_number": 9879969594,
+        "email": "your.email@example.com",
+        "pin": 1981,
+        "account_no": "F874p&b",
+        "balance": 10000
+    }
+]
